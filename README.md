@@ -1,1 +1,1 @@
-#gitlearn
+git{,hub} learn repo
